@@ -1,1 +1,26 @@
+# MDK5工程忽略文件
+*.dbgconf
+*.d
+*.crf
+*.o
+*.axf
+*.htm
+*.build_log.htm
+*.dep
+*.uvguix.*
+*.uvoptx
+*.scvd
+JLinkLog.txt
+*.ini
+Debug/
+Output/
+Listings/
+Objects/
+RTE/
 
+# 编译中间文件
+*.obj
+*.lst
+*.sbr
+*.bin
+*.hex
